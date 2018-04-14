@@ -1,4 +1,4 @@
-# Aovid float conversion automatically when division
+# Avoid float conversion automatically when division
 When dividing an int value, **Python3** automatically converts to a float.  
 In this case, if you divide the result into an int and work on it, you might get unintended results.  
 The way to avoid this is simple. You can use the **"//"** operator instead of the **"/"** operator when dividing.  
